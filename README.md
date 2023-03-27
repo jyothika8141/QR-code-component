@@ -8,6 +8,7 @@ Frontend Mentor is a platform that provides real-world frontend development proj
 
 ## URL:
 ---
+Live Site: https://jyothika8141.github.io/QR-code-component/
 
 <br>
 
