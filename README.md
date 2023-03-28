@@ -21,6 +21,7 @@ I learned HTML and CSS a few months ago, and this is the first project where I a
 ## What I learned
 ---
  I learned about responsive websites and the process of creating designs that adapt to different screen sizes and resolutions.
+ I have also gained a deeper understanding of CSS properties, including layout, alignment, and others
 
 
 ## Screenshots:
